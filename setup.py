@@ -33,7 +33,7 @@ setup(
         "Backup Tabletop Simulator saves and assets into comprehensive "
         "Zip files."
     ),
-    author="Sebastian Reuße",
+    author="Sebastian Reusse",
     author_email='seb@wirrsal.net',
     url='https://github.com/eigengrau/tts-backup',
     packages=[
